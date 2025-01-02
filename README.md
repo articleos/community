@@ -22,4 +22,4 @@ Stay Updated: Follow topics and threads that interest you to receive the latest 
 
 **Get Started Today**
 
-(Discussions) to join the discussion and become part of a dynamic community dedicated to advancing business education and careers.
+[Discussions](https://github.com/articleos/community/discussions) to join the discussion and become part of a dynamic community dedicated to advancing business education and careers.
